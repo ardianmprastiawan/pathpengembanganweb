@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .container {
+    width: 1170px;
+    padding: 0;
+    margin: 0 auto;
+  }
+  
+ 
+  .pricing {
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #fff1e3;
+    text-align: center;
+  }
+  
+  .heading {
+    padding-top: 10px;
+    padding-bottom: 0;
+    color: #5f5d60;
+  }
+  .heading span {
+      font-size: 40px;
+      font-weight: bold;
+  }
+  .heading h2 {
+    font-weight: normal;
+  }
+  
+  .lesson {
+    float: left;
+    width: 25%;
+  }
+  
+  .lesson-icon {
+    position: relative;
+  }
+  
+  .lesson-icon p {
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    color: white;
+  }
+  
+  .txt-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #b3aeb5;
+  }
+  
+  .heading h3 {
+    font-weight: normal;
+  }
+  
+  .testimoni {
+    background-color: #d4f1dd;
+    border-bottom: 5px solid #fff;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  
+
